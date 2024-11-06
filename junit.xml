@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuite name="SampleTestSuite" tests="1" failures="1" errors="0" skipped="0" timestamp="2024-11-05T10:00:00" time="0.123">
     <testcase classname="com.example.tests.SampleTest" name="testFailure" time="0.123">
-        <failure message="Expected true but was false" type="AssertionError">
-            <![CDATA[java.lang.AssertionError: Expected true but was false
-                at com.example.tests.SampleTest.testFailure(SampleTest.java:10)
-                at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-                at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-                at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-                at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
-                at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)]]>
-        </failure>
+        
     </testcase>
 </testsuite>
 
